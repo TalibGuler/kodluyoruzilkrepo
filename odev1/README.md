@@ -3,7 +3,7 @@
 Öncelikle projenizi clonelayın.(buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
-https://github.com/TalibGuler/kodluyoruzilkrepo.git
+git clone https://github.com/TalibGuler/kodluyoruzilkrepo.git
 ```
 
 # Usage
